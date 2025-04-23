@@ -1,0 +1,24 @@
+google-generativeai>=0.3.0
+mongoengine>=0.27.0
+python-dotenv>=1.0.0
+retrying>=1.3.4
+pytest>=7.3.1
+transformers>=4.30.2
+accelerate >=0.26.0
+jsonformer
+guidance
+huggingface_hub
+langchain
+python-docx
+colorlog
+scikit-learn
+pandas
+matplotlib
+pandoc
+torch==2.3.1
+torchvision==0.18.1
+seaborn
+sentencepiece>=0.1.99
+optuna
+spacy
+colorama
